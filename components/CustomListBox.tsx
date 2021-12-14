@@ -8,7 +8,7 @@ export default function CustomListBox({values ,type , selected , onChange}) {
                 ({open}) => (
                     <>
                          <Listbox.Label className="text-sm font-medium text-gray-700">
-                                Select {type} Here
+                                Select {type} Here lol
                         </Listbox.Label>
                         <div className="relative">
               <span className="inline-block w-full">
